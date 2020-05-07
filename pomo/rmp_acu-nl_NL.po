@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Admin Search Meta\n"
+"POT-Creation-Date: 2020-05-07 11:28+0200\n"
+"PO-Revision-Date: 2020-05-07 11:30+0200\n"
+"Last-Translator: Remon Pel <remon@clearsite.nl>\n"
+"Language-Team: Remon Pel\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html__;esc_attr__;esc_textarea__;_n:1,2;"
+"esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: bower_components\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#: admin-change-username.php:52 admin-change-username.php:191
+msgid "Admin Change Username"
+msgstr "Usernames Wijzigen"
+
+#: admin-change-username.php:71
+msgid ""
+"<strong>ERROR</strong>: This username is already registered. Please choose "
+"another one."
+msgstr ""
+"<strong>FOUT</strong>: Deze gebruikersnaam bestaat al. Kies een andere."
+
+#: admin-change-username.php:184
+msgid "Redirect old user-names?"
+msgstr "Oude profiel-pagina’s redirecten?"
+
+#: admin-change-username.php:185
+msgid ""
+"If you are changing usernames because of security, do NOT activate this."
+msgstr ""
+"Als je gebruikersnamen aanpast om veiligheidsredenen; laat dit UIT staan."
+
+#: admin-change-username.php:201
+msgid "Save"
+msgstr "Opslaan"
+
+#~ msgid "Admin Meta Search"
+#~ msgstr "Admin Meta Search"
+
+#~ msgid ""
+#~ "Select post-types for which you want to allow meta-searching in WP-Admin."
+#~ msgstr ""
+#~ "Selecteer post-types voor welke je het doorzoeken van meta wilt toestaan "
+#~ "in WP-Admin."
+
+#~ msgid "If none selected, all meta will be searched."
+#~ msgstr "Indien geen geselecteerd zal alle meta worden doorzocht."
+
+#, php-format
+#~ msgid "There are no posts of type %s yet to determine available meta-keys."
+#~ msgstr "Er zijn nog geen posts van type %s om meta-keys van te verzamelen."
