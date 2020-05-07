@@ -1,0 +1,10 @@
+{
+  "Plugin Name": "Admin Change Username",
+  "Plugin URI": "https://github.com/rmpel/admin-change-username",
+  "Version": "0.0.1",
+  "Author": "Remon Pel",
+  "Description": "Allows admin to change usernames.",
+  "Requires PHP": "5.6.0",
+  "Requires at least": "4.0",
+  "Textdomain": "rmp_acu"
+}
